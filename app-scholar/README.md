@@ -14,7 +14,7 @@ O aplicativo realiza o gerenciamento operacional (Cadastro, Consulta, Edição e
 ##  Modelagem de Banco de Dados (MBDB)
 Para suporte do sistema, foi modelado um banco de dados no **MySQL** contendo regras de integridade e a implementação de **10 Views relacionais** com múltiplos `JOINs` para geração de relatórios acadêmicos consolidados.
 
-##  Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Frontend Mobile:** React Native / JavaScript (Expo Snack)
 - **Banco de Dados:** MySQL (phpMyAdmin)
 
