@@ -20,7 +20,6 @@ Para suporte do sistema, foi modelado um banco de dados no **MySQL** contendo re
 
 ## 📁 Estrutura da Pasta
 - `App.js`: Código-fonte da aplicação React Native (Em desenvolvimento).
-- `views_academicas.sql`: Script SQL contendo a criação das 10 Views do banco de dados.
 
 ##  Autor
 - **Larissa Pinto de Oliveira**
