@@ -23,5 +23,5 @@ Para suporte do sistema, foi modelado um banco de dados no **MySQL** contendo re
 - `views_academicas.sql`: Script SQL contendo a criação das 10 Views do banco de dados.
 
 ##  Autor
-- **Larissa Punto de Oliveira**
+- **Larissa Pinto de Oliveira**
 - Curso: Desenvolvimento de Sistemas • Unidade: São José dos Campos • Etec 2026
